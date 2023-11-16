@@ -1,0 +1,3 @@
+public class hobbies {
+  public string favoriteSport;
+}
